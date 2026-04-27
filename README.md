@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi. 👋
+"karekod,barkod,kategoriler ve etiketler yokken insanlığın kavim bilge geçmişi vardı." – Ü.S.
 <!--
 **epiusu/epiusu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
